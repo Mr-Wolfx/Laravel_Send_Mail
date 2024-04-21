@@ -1,0 +1,5 @@
+@import 'bootstrap/dist/css/bootstrap.min.css'; 
+/* @import 'bootstrap/dist/css/bootstrap.css';  .min serve per usare il bootstrap piu leggero */
+
+@import './navbar.css'; 
+@import './style.css'; 
